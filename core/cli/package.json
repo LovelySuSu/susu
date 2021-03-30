@@ -1,6 +1,6 @@
 {
   "name": "@susu/cli",
-  "version": "1.0.3",
+  "version": "1.0.3-alpha.1+e399480",
   "description": "",
   "author": "xudinghanyang <1060340716@qq.com>",
   "homepage": "",
@@ -23,9 +23,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@susu/get-npm-info": "file:../../utils/get-npm-info",
-    "@susu/log": "file:../../utils/log",
-    "@susu/util": "file:../../utils/util",
+    "@susu/get-npm-info": "^1.0.3-alpha.1+e399480",
+    "@susu/log": "^1.0.3-alpha.1+e399480",
+    "@susu/util": "^1.0.3-alpha.1+e399480",
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "import-local": "^3.0.2",
@@ -36,5 +36,5 @@
     "semver": "^7.3.5",
     "user-home": "^2.0.0"
   },
-  "gitHead": "7c9056b439e7e4a4eca191adc7cc4f04363ec2cd"
+  "gitHead": "e399480aa233d3dc012fa38ebf8980f248a8fbe1"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@susu/get-npm-info",
-  "version": "1.0.3",
+  "version": "1.0.3-alpha.1+e399480",
   "description": "",
   "author": "xudinghanyang <1060340716@qq.com>",
   "homepage": "",
@@ -24,5 +24,5 @@
     "semver": "^7.3.5",
     "url-join": "^4.0.1"
   },
-  "gitHead": "7c9056b439e7e4a4eca191adc7cc4f04363ec2cd"
+  "gitHead": "e399480aa233d3dc012fa38ebf8980f248a8fbe1"
 }
