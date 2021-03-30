@@ -1,6 +1,6 @@
 {
   "name": "@susu/util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "xudinghanyang <1060340716@qq.com>",
   "homepage": "",
@@ -16,7 +16,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "dependencies": {},
   "devDependencies": {
     "dedent": "^0.7.0",
     "yargs": "^16.2.0"

@@ -1,6 +1,6 @@
 {
   "name": "@susu/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "xudinghanyang <1060340716@qq.com>",
   "homepage": "",
@@ -20,8 +20,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@susu/log": "file:../../utils/log",
     "@susu/get-npm-info": "file:../../utils/get-npm-info",
+    "@susu/log": "file:../../utils/log",
     "@susu/util": "file:../../utils/util",
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
