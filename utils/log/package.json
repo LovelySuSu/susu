@@ -1,6 +1,6 @@
 {
-  "name": "@susu/log",
-  "version": "1.0.3-alpha.1+e399480",
+  "name": "@dingsusu/log",
+  "version": "1.0.3-alpha.2+96705a8",
   "description": "",
   "author": "xudinghanyang <1060340716@qq.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "npmlog": "^4.1.2"
   },
-  "gitHead": "e399480aa233d3dc012fa38ebf8980f248a8fbe1"
+  "gitHead": "96705a8d49c4f2e14dd0810996f579af0150cf32"
 }
