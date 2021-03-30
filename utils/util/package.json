@@ -13,11 +13,15 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "devDependencies": {
     "dedent": "^0.7.0",
     "yargs": "^16.2.0"
-  }
+  },
+  "gitHead": "7c9056b439e7e4a4eca191adc7cc4f04363ec2cd"
 }
